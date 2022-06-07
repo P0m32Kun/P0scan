@@ -1,0 +1,6 @@
+.idea
+results
+*.log
+*.yaml
+*.txt
+venv
